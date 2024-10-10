@@ -10,7 +10,7 @@ Dataset Description:-
 The dataset includes transactional records for Vrinda Store in 2022. Below are key details:
 
 * File: Vrinda Store Data Analysis.xlsx
-* Total Rows: [insert total row count]
+* Total Rows: 31048
 * Total Columns: 21
 
 Key Columns:-
